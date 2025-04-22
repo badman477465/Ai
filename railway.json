@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "BOT_TOKEN": "your_bot_token",
+      "SESSION_STRING": "your_session_string",
+      "OPENAI_API_KEY": "your_openai_api_key",
+      "CHAT_ID": "your_chat_id"
+    }
+  }
+}
